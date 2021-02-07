@@ -5,6 +5,6 @@
 
 #### :rocket: Click in the gif to play :rocket:
 <a href="https://sites.google.com/site/ufoinvasiongame/">
-   <img align="center" alt="GIF" src="https://github.com/wagnerjfr/wagnerjfr/blob/master/res/ufo.gif?raw=true" width="300" height="150" />
+   <img align="center" alt="GIF" src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/ufo.gif?raw=true" width="300" height="150" />
 </a>
 
