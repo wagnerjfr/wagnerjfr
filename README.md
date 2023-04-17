@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=wagnerjfr.wagnerjfr)
 
 #### :rocket: Click in the gif to play :rocket:
-<a href="https://sites.google.com/site/ufoinvasiongame/">
+<a href="https://sites.google.com/view/ufoinvasiongame/">
    <img align="center" alt="GIF" src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/ufo.gif?raw=true" width="300" height="150" />
 </a>
 
