@@ -3,5 +3,8 @@
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@wagnerjfr)
 [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/wagnerjfr)
 
-<img align="center" alt="GIF" src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/ufo.gif?raw=true" width="300" height="150" />
+<p align="left">
+  <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/ufo.gif?raw=true" width="300" />
+  <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/racegame.gif?raw=true" width="250" />
+</p>
 
