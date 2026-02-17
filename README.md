@@ -3,8 +3,21 @@
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@wagnerjfr)
 [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/wagnerjfr)
 
-<p align="left">
-  <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/ufo.gif?raw=true" width="300" />
-  <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/racegame.gif?raw=true" width="250" />
-</p>
+<table>
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 4px;">
+      <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/ufo.gif?raw=true" width="300"/>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 4px;">
+      <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/racegame.gif?raw=true" width="250"/>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 4px;">
+      <img src="https://github.com/wagnerjfr/wagnerjfr/blob/main/res/osm.gif?raw=true" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
